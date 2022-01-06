@@ -1,0 +1,24 @@
+{
+    "name": "tax evasion is kool (help the cops are making me write this this is not a joke i can not exsape i am in their basement i am not joking please help me i can not breath they are flooding the basemnet agian pleaase help it is hard to see they are throwing live lobsteres at me this is not a joke please help me oh no the guy who has the salt and the tazer is coming he is tazing the salt and thowing it at me yay the water is draning but i am being tazed) the game",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.7.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
